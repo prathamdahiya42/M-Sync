@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.ClassJam" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FFFF7F7</item>
+        <item name="android:navigationBarColor">#FFFF7F7</item>
+        <item name="android:windowBackground">#FFFF7F7</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

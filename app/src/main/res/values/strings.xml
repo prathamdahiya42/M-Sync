@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Class Jam</string>
+    <string name="notification_channel_name">Class Jam Session</string>
+    <string name="notification_channel_desc">Active synchronized music and party session</string>
+    <string name="connected_notification_title">Connected to Class Jam</string>
+    <string name="connected_notification_desc">Voluntary local session active</string>
+</resources>
